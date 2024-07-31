@@ -1,0 +1,56 @@
+body{
+    background: palevioletred;
+}
+.container{
+    width: 380px;
+    height: 500px;
+    background: #fff;
+    text-align: center;
+    margin-left:30%;
+}
+.fname{
+
+width: 130px;
+height:25px;
+margin-top: 22px;
+border:1px solid palevioletred;
+}
+.lname{
+    width: 130px;
+    height:25px;
+    margin-top: 22px;
+    border:1px solid palevioletred;
+    }
+
+.input .inpt
+{
+    height: 25px;
+    width :300px;
+    border:1px solid palevioletred;
+    margin-top: 22px;
+}
+
+.input i{
+    padding: 6px;
+    border: 1px solid palevioletred;
+    width:15px;
+    height:18px;
+    margin-top: 22px;
+}
+.gender{
+    margin-top: 22px;
+    font-size: 22px;  
+    margin-right: 170px;
+    
+}
+button{
+    height: 33px;
+    width :340px;
+    background: palevioletred;
+    border:0px;
+}
+.check-button{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
